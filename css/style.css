@@ -446,7 +446,7 @@ ol {
 }
 
 .hero__items {
-	padding: 150px 0 42px 50px;
+	padding: 120px 0 42px 50px;
 	border-radius: 5px;
 }
 
@@ -652,7 +652,7 @@ ol {
 }
 
 .product__item__pic {
-	height: 210px;
+	height: 230px;
 	position: relative;
 	border-radius: 5px;
 }
